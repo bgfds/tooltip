@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: stooltip
+## Notes: 
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+tooltip.lua
